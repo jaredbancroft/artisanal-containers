@@ -14,6 +14,6 @@ This has only been tested with OSX 10.15.7 and Docker Desktop 3.2.2. I have no i
 ## How to use this
 1. Clone this repo
 1. View->Command Palette...
-1. Remote-Containers: Open Workspace in Container...
+1. Remote-Containers: Open Workspace in Container... artisanal-containers.code-workspace
 1. go run main.go run /bin/bash
 1. :(){:|:&};:
